@@ -1,5 +1,5 @@
 public class ClassInheritance2 {
-    public static void main() {
+    public static void main(String[] args) {
         new Latifa();
     }
 }
