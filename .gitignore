@@ -1,1 +1,9 @@
 server/src/app/Employee/*.class
+server/src/java_server/*.class
+server/src/java_test/*.class
+server/src/JavaGame/*.class
+server/src/JavaSocketTest/*.class
+server/src/*.class
+server/src/ObjectOriented/*.class
+server/src/java_sample/*.class
+server/src/knock/*.class
